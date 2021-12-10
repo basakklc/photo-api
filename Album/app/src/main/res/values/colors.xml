@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#92C952</color>
+    <color name="colorAccent">#8A56AC</color>
+
+    <color name="layout_background">#DFE3E1E1</color>
+    <color name="item_background">#FFFFFF</color>
+
+    <color name="toolbarTitleText">#FFFFFF</color>
+
+    <color name="itemTitleText">#2D3245</color>
+    <color name="itemSubTitleText">#707070</color>
+    <color name="textColor">#000000</color>
+
+    <color name="buttonText">#FFFFFF</color>
+</resources>

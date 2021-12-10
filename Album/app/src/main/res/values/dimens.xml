@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="form_margin">8dp</dimen>
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="subtitle_size">16sp</dimen>
+    <dimen name="text_mediumsize">14sp</dimen>
+    <dimen name="text_smallsize">11sp</dimen>
+
+    <dimen name="icon_margin_left">153sp</dimen>
+    <dimen name="icon_margin_top">10sp</dimen>
+    <dimen name="text_margin_left">55sp</dimen>
+    <dimen name="text_margin_top_bottom">15sp</dimen>
+
+
+</resources>
